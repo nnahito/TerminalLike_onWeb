@@ -1,0 +1,66 @@
+/*
+	全てのページで共通して利用するCSSを定義するファイルです
+*/
+html, body{
+	height: 95%;
+}
+
+div#wrapper{
+	width: 100%;
+	margin: 0 auto;
+	height: 100%;
+}
+
+/* ターミナルウインドウ */
+.terminal{
+	float: left;
+	width: 50%;
+	height: 100%;
+	max-width: 100%;
+	background-color: #000000;
+	border: #ffffff 1px solid;
+	border-radius: 10px 10px 3px 3px;
+}
+
+.terminal_title{
+	background: linear-gradient(#F4F4F4, #D3D3D3);
+	border-radius: 3px 3px 0px 0px;
+	width: 100%;
+	height: 25px;
+}
+
+.terminal_body{
+	color: #E2E2E2;
+	width: 100%;
+	max-height: calc(100% - 25px - 30px);
+	font-size: 13px;
+	overflow: scroll;
+	background-color: #000000;
+	border-radius: 0px 0px 3px 3px;
+}
+
+.terminal_input{
+	background-color: #000000;
+	outline: 0;
+	border: 1px none;
+	color: #E2E2E2;
+	width: 100%;
+	font-size: 13px;
+}
+
+.tarminal_input_back{
+	color: #E2E2E2;
+	background-color: #000000;
+	border-radius: 0px 0px 3px 3px;
+	width: 100%;
+	font-size: 13px;
+	height: 30px;
+}
+
+
+
+/* 結果などを表示するサブ領域 */
+#subwindow{
+	float: right;
+	width: 48%;
+}
