@@ -4,6 +4,12 @@
 ![画像](https://raw.githubusercontent.com/nnahito/TerminalLike_onWeb/master/images/pic01.png)
 
 
+# データ
+- index.php
+- css
+のみ。（GitHub初心者なのでコミットの仕方が下手なのは許して）
+
+
 # 必須プラグイン・フレームワーク
 - jQuery
 
