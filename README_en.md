@@ -1,20 +1,19 @@
 # Introduction
 It is a "web" terminal where you can input commands.
-![画像](https://raw.githubusercontent.com/nnahito/TerminalLike_onWeb/master/images/p\
-ic01.png)
+![画像](https://raw.githubusercontent.com/nnahito/TerminalLike_onWeb/master/images/pic01.png)
 
 # Data
 - index.php
 - css
 
-Only (Since i am a beginner with Git, i don't know how to make proper commits so please forgive me).
+Only (Since I am a beginner with Git, I don't know how to make proper commits so please forgive me).
 
 # Mandatory Plug-in - Framework
 - jQuery
 
 # Input acquisition part
-On the 69th line, i've put some Javascript.
-And i use jQuery.
+On the 69th line, I've put some Javascript.
+And I use jQuery.
 
 ```JavaScript
 <script>
